@@ -95,12 +95,12 @@ In index.php, ensure the database configuration matches your local setup:
 
 ### 4. ▶️ Run the App
 
-#### Option A: Using XAMPP/WAMP
+- Option A: Using XAMPP/WAMP
 Start Apache and MySQL
 Visit in your browser:
 http://localhost/UserManagementSystem/
 
-#### Option B: Using PHP Built-in Server
+- Option B: Using PHP Built-in Server
 From the terminal:
 cd path/to/UserManagementSystem
 php -S localhost:8000
