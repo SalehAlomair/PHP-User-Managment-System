@@ -79,3 +79,31 @@ CREATE TABLE users (
 );
 ```
 ✅ You can name the database something 
+
+### 3. ⚙️ Configure Database Connection
+
+In index.php, ensure the database configuration matches your local setup:
+`$conn = new mysqli("localhost", "root", "", "toggle_app");`
+
+localhost → Your MySQL host
+
+root → Your MySQL username
+
+"" → Your MySQL password (empty by default in XAMPP)
+
+toggle_app → Your database name
+
+4. ▶️ Run the App
+
+Option A: Using XAMPP/WAMP
+Start Apache and MySQL
+Visit in your browser:
+http://localhost/UserManagementSystem/
+
+Option B: Using PHP Built-in Server
+From the terminal:
+cd path/to/UserManagementSystem
+php -S localhost:8000
+
+Then open:
+http://localhost:8000
