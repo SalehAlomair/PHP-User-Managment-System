@@ -2,7 +2,7 @@
 
 A sleek and responsive web application built using **PHP** & **HTML**, **CSS** and **MySQL** that allows you to manage a list of users with modern UI components and interactive features.
 
-<img width="1918" height="904" alt="image" src="https://github.com/user-attachments/assets/035b1046-70dd-4fc9-b76b-9ec94787bcac" />
+<img width="1002" height="808" alt="image" src="https://github.com/user-attachments/assets/26e48bbb-b4a5-4dd9-84ba-2a0b19eab640" />
 
 
 ## 🚀 Features
