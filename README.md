@@ -1,8 +1,8 @@
 # 🧑‍💼 User Management System
 
 A sleek and responsive web application built using **PHP** & **HTML**, **CSS** and **MySQL** that allows you to manage a list of users with modern UI components and interactive features.
-<img width="1914" height="903" alt="image" src="https://github.com/user-attachments/assets/b6a23ddd-da9f-4918-943c-4ee4aeb61021" />
-<img width="968" height="807" alt="image" src="https://github.com/user-attachments/assets/b7a9e781-121a-44e8-b5a1-c47996d56a69" />
+
+<img width="1439" height="844" alt="image" src="https://github.com/user-attachments/assets/524ec0e7-07d4-4e68-a994-821178b49c54" />
 
 ## 🚀 Features
 
